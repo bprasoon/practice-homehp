@@ -1,0 +1,7 @@
+11:25:00.294 [main] ERROR testCases.GetTextname_4kstick - This step is error
+11:25:00.302 [main] DEBUG testCases.GetTextname_4kstick - i'm debug
+11:25:00.303 [main] INFO  testCases.GetTextname_4kstick - i'm log
+11:26:24.135 [main] ERROR testCases.GetTextname_4kstick - This step is error
+11:26:24.141 [main] WARN  testCases.GetTextname_4kstick - i'm warning
+11:41:22.829 [main] ERROR testCases.GetTextname_4kstick - This step is error
+11:41:22.836 [main] WARN  testCases.GetTextname_4kstick - i'm warning

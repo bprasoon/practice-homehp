@@ -1,0 +1,32 @@
+package testCases;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Properties;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import com.personal.test.base;
+
+import pageObject.Homepage;
+
+public class GetTextname_4kstick extends base {
+
+	WebDriver driver;
+
+
+	@Test
+	public  void clickgettext() throws IOException
+	{
+	driver = initializedriver();
+	driver.get(prop.getProperty("url"));
+	//prop.getProperty("url")
+	Homepage hp= new Homepage(driver);
+	hp.clicklink().click();
+	Assert.assertEquals(By.cssSelector("[href*=Best-Seller-Toys]"), "See more Best Sellers in Toys & Games");
+	}
+	
+}

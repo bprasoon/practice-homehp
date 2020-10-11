@@ -1,0 +1,30 @@
+package com.personal.test;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest 
+{
+	static int b=10;
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+		
+    }
+    @Test
+    public void sample()
+    {
+        int a=5;
+        a=b;
+    	System.out.println("First dummy code");
+        System.out.println(b*b);
+    }
+}

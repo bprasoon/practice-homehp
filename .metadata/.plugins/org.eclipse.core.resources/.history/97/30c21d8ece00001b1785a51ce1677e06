@@ -1,0 +1,39 @@
+package com.personal.test;
+
+import static org.junit.Assert.assertTrue;
+
+import java.util.ArrayList;
+
+import org.junit.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest 
+{
+	static int b=10;
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+		
+    }
+    @Test
+    public void sample()
+    {
+        int a=5;
+        a=b;
+    	System.out.println("First dummy code");
+        System.out.println(b*b);
+        
+        ArrayList numbers = new ArrayList();
+        numbers.add(5);
+        numbers.add(9);
+        numbers.add(8);
+        numbers.add(1);
+        numbers.forEach( n -> System.out.println(n));
+    }
+}

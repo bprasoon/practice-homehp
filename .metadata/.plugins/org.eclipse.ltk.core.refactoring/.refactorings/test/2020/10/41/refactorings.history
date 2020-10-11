@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;test&apos;&#x0D;&#x0A;- Original project: &apos;test&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     clickgettext1601721017249.png&#x0D;&#x0A;     clickgettext1602332628310.png&#x0D;&#x0A;     clickgettext1602332892728.png" description="Delete elements" element1="Reports/Screenshots/clickgettext1601721017249.png" element2="Reports/Screenshots/clickgettext1602332892728.png" element3="Reports/Screenshots/clickgettext1602332628310.png" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1602332975161" subPackages="false" version="1.0"/>
+</session>

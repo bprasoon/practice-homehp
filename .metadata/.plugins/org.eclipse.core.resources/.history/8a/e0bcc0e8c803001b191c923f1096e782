@@ -1,0 +1,25 @@
+package practise;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+
+public class Binary_search {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Integer sa[] = {2,1,4,5,9};
+		
+	//Arrays.sort(sa, (s,t) ->s.compareTo(t));
+		//Arrays.sort(sa);
+		Arrays.sort(sa, Integer::compareTo);
+		System.out.println(sa);
+		
+	
+		
+		
+
+	}
+
+}

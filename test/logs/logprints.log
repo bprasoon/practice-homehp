@@ -1,0 +1,91 @@
+12:03:40.411 [main] ERROR testCases.GetTextname_4kstick - This step is error
+12:03:40.425 [main] DEBUG testCases.GetTextname_4kstick - i'm debug
+12:03:40.425 [main] INFO  testCases.GetTextname_4kstick - i'm log
+12:03:40.425 [main] WARN  testCases.GetTextname_4kstick - i'm warning
+12:03:40.425 [main] ERROR testCases.GetTextname_4kstick - This step is error
+12:03:40.425 [main] DEBUG testCases.GetTextname_4kstick - i'm debug
+12:03:40.425 [main] INFO  testCases.GetTextname_4kstick - i'm log
+12:03:40.426 [main] WARN  testCases.GetTextname_4kstick - i'm warning
+12:03:40.426 [main] ERROR testCases.GetTextname_4kstick - This step is error
+12:03:40.434 [main] DEBUG testCases.GetTextname_4kstick - i'm debug
+12:03:40.434 [main] INFO  testCases.GetTextname_4kstick - i'm log
+12:03:40.434 [main] WARN  testCases.GetTextname_4kstick - i'm warning
+13:08:48.297 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+13:10:01.348 [main] ERROR testCases.GetTextname_4kstick - This step is error
+13:10:01.355 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:32:44.750 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:32:44.764 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:35:50.729 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:35:50.739 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:36:39.421 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:36:39.432 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:38:30.481 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:38:30.489 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:40:22.653 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:40:22.661 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:43:31.881 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:43:31.885 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:44:53.938 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:44:53.943 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:47:30.163 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:47:30.169 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:49:22.570 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:49:22.577 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:50:20.942 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:50:20.947 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:51:56.286 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:51:56.294 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:53:29.076 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:53:29.084 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+15:54:19.829 [main] ERROR testCases.GetTextname_4kstick - This step is error
+15:54:19.838 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:04:13.733 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:04:18.395 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:11:47.071 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:11:52.890 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:30:09.915 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:30:09.924 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:32:07.339 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:32:07.347 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:35:15.308 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:35:15.315 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:36:44.293 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:36:44.300 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:37:35.565 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:37:35.575 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:40:35.192 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:40:35.201 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:49:27.127 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:49:27.135 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:51:01.113 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:51:01.120 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+16:57:54.985 [main] ERROR testCases.GetTextname_4kstick - This step is error
+16:57:54.994 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+05:11:46.817 [main] ERROR testCases.GetTextname_4kstick - This step is error
+05:11:46.825 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+05:20:03.645 [main] ERROR testCases.GetTextname_4kstick - This step is error
+05:20:03.650 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+05:49:15.677 [main] ERROR testCases.GetTextname_4kstick - This step is error
+05:49:15.687 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+06:00:20.555 [main] ERROR testCases.GetTextname_4kstick - This step is error
+06:00:20.562 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+06:05:11.251 [main] ERROR testCases.GetTextname_4kstick - This step is error
+06:05:11.254 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+06:10:39.627 [main] ERROR testCases.GetTextname_4kstick - This step is error
+06:10:39.637 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+06:13:14.377 [main] ERROR testCases.GetTextname_4kstick - This step is error
+06:13:14.381 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+2020-10-03-06:16:53.684 [main] ERROR testCases.GetTextname_4kstick - This step is error
+2020-10-03-06:16:53.689 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+2020-10-03-06:18:25.162 [main] ERROR testCases.GetTextname_4kstick - This step is error
+2020-10-03-06:18:25.166 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+2020-10-03-06:23:59.644 [main] ERROR testCases.GetTextname_4kstick - This step is error
+2020-10-03-06:23:59.649 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+2020-10-03-06:30:16.685 [main] ERROR testCases.GetTextname_4kstick - This step is error
+2020-10-03-06:30:16.692 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+2020-10-10-08:23:47.706 [main] ERROR testCases.GetTextname_4kstick - This step is error
+2020-10-10-08:23:47.715 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+2020-10-10-08:28:12.094 [main] ERROR testCases.GetTextname_4kstick - This step is error
+2020-10-10-08:28:12.101 [main] FATAL testCases.GetTextname_4kstick - I'm fatal
+2020-10-10-08:42:24.164 [main] ERROR testCases.GetTextname_4kstick - This step is error
+2020-10-10-08:42:24.169 [main] FATAL testCases.GetTextname_4kstick - I'm fatal

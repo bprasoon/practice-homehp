@@ -1,0 +1,37 @@
+package testCases;
+
+import java.io.IOException;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import com.personal.test.base;
+
+import pageObject.Bestseller;
+import pageObject.Homepage;
+
+public class GetTextname_4kstick extends base {
+
+	WebDriver driver;
+
+	 static Logger logger = LogManager.getLogger(GetTextname_4kstick.class.getName());
+	
+	@Test
+	public  void clickgettext() throws IOException
+	{
+	//driver = initializedriver();
+	//driver.get(prop.getProperty("url"));
+	//Homepage hp= new Homepage(driver);
+	////hp.clicklink().click();
+	logger.info("This step is complete");
+	logger.debug("i'm debug");
+	//Bestseller bp= new Bestseller(driver);
+	//Assert.assertEquals(bp.getText().getText(), "See more Best Sellers in Toys & Games");
+		//System.out.println(bp.getText().getText());
+	//Assert.assertTrue(bp.getText().isDisplayed());
+
+	}
+	
+}

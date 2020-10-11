@@ -1,0 +1,20 @@
+package pageObject;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+import com.personal.test.base;
+
+public class Homepage extends base{
+	
+	WebDriver driver;
+	
+	By bestsell= By.linkText("Best Sellers");
+	
+	public WebElement clicklink()
+	{
+		return driver.findElement(bestsell);
+	}
+	
+}
