@@ -1,0 +1,31 @@
+{ 
+
+   "location":{ 
+
+      "lat":-38.383494, 
+
+      "lng":33.427362 
+
+   }, 
+
+   "accuracy":50, 
+
+   "name":"Frontline house", 
+
+   "phone_number":"(+91) 923 456 7890", 
+
+   "address":"123 sample street", 
+
+   "types":[ 
+
+      "shoe park", 
+
+      "shoe" 
+
+   ], 
+
+   "website":"https://rahulshettyacademy.com", 
+
+   "language":"French-IN" 
+
+} 
