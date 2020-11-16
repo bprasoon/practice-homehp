@@ -20,7 +20,7 @@ public class FirstApiTest {
 		.when().post("maps/api/place/add/json")
 		.then().log().all().assertThat().statusCode(200).body("scope", equalTo("APP")).extract().response().asString();
 
-		// update place
+		// update place 
 		
 		JsonPath resp = Reusable.jsonpath(response);
 		String placeid=resp.getString("place_id");
